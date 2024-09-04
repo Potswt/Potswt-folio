@@ -36,7 +36,7 @@ const Hero = () => {
                   <Send size={18} />
                 </Button>
               </Link>
-              <a href="https://drive.google.com/file/d/1UDzJJxIREnd3GAjKjad_cotOlLp51UVu/view?usp=sharing">
+              <a href="https://drive.google.com/file/d/14ok-8sesSWoqAfroS6BimzXh_hUScWDj/view?usp=sharing">
                 <Button variant="secondary" className="gap-x-2">
                   Resume
                   <Download size={18} />
