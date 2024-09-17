@@ -74,6 +74,9 @@ const skillData = [
         name: "React",
       },
       {
+        name: "Next.js",
+      },
+      {
         name: "Tailwind css",
       },
     ],
