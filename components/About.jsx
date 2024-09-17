@@ -141,7 +141,6 @@ const About = () => {
                       I'm an ICT student passionate about Front-end Development.
                     </h3>
                     <p className="subtitle max-w-xl mx-auto xl:mx-0">
-                      I'm an ICT student passionate about Front-end Developer.
                       I've got a good grasp of HTML, CSS, and JavaScript, and I'm diving into React, Next.js frameworks now. I'm excited to join a team and build amazing websites.
                     </p>
                     {/* icons */}
