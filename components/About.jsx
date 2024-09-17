@@ -138,9 +138,8 @@ const About = () => {
                       I'm an ICT student passionate about Front-end Development.
                     </h3>
                     <p className="subtitle max-w-xl mx-auto xl:mx-0">
-                      I've got a good grasp of HTML, CSS, and JavaScript, and
-                      I'm diving into React frameworks now. I'm excited to join
-                      a team and build amazing websites.
+                      I'm an ICT student passionate about Front-end Developer.
+                      I've got a good grasp of HTML, CSS, and JavaScript, and I'm diving into React, Next.js frameworks now. I'm excited to join a team and build amazing websites.
                     </p>
                     {/* icons */}
                     <div className="grid xl:grid-cols-2 gap-4 mb-12">
