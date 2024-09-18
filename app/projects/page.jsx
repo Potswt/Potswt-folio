@@ -46,6 +46,7 @@ const Projects = () => {
           </div>
         </Tabs>
       </div>
+      <div className="h-[550px]"></div>
     </section>
   );
 };

@@ -41,7 +41,7 @@ const Contact = () => {
             </div>
           </div>
         </div>
-        <div className="h-[250px]"></div>
+        <div className="h-[600px]"></div>
       </div>
     </section>
   );
