@@ -65,12 +65,6 @@ const skillData = [
         name: "JavaScript",
       },
       {
-        name: "Node.js",
-      },
-      {
-        name: "Git",
-      },
-      {
         name: "React",
       },
       {
@@ -89,6 +83,12 @@ const skillData = [
       },
       {
         imgPath: "/about/vscode.svg",
+      },
+      {
+        imgPath: "/about/nodejs.png",
+      },
+      {
+        imgPath: "/about/git.png",
       },
     ],
   },
@@ -141,7 +141,9 @@ const About = () => {
                       I'm an ICT student passionate about Front-end Development.
                     </h3>
                     <p className="subtitle max-w-xl mx-auto xl:mx-0">
-                      I've got a good grasp of HTML, CSS, and JavaScript, and I'm diving into React, Next.js frameworks now. I'm excited to join a team and build amazing websites.
+                      I've got a good grasp of HTML, CSS, and JavaScript, and
+                      I'm diving into React, Next.js frameworks now. I'm excited
+                      to join a team and build amazing websites.
                     </p>
                     {/* icons */}
                     <div className="grid xl:grid-cols-2 gap-4 mb-12">

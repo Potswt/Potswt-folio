@@ -72,6 +72,7 @@ const Activities = () => {
             })}
           </Swiper>
         </div>
+        <div className="h-[30px]"></div>
       </div>
     </section>
   );
