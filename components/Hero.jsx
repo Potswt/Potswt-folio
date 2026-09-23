@@ -39,7 +39,7 @@ const Hero = () => {
               <a href="#">
                 <Button variant="secondary" className="gap-x-2">
                   Resume
-                  <Download size={18} />
+                  <Download size={18} https://drive.google.com/file/d/15ZuOLSeItL8CQWQuCU34nLVABwKHLVhk/view?usp=sharing />
                 </Button>
               </a>
             </div>
