@@ -10,10 +10,10 @@ import {
 import Link from "next/link";
 
 const icons = [
-  {
-    path: "https://www.linkedin.com/in/potsawat-kps-2259932b3/",
-    name: <RiLinkedinFill />,
-  },
+  // {
+  //   path: "https://www.linkedin.com/in/potsawat-kps-2259932b3/",
+  //   name: <RiLinkedinFill />,
+  // },
   {
     path: "https://github.com/Potswt",
     name: <RiGithubFill />,

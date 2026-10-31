@@ -25,7 +25,7 @@ const infoData = [
   },
   {
     icon: <MailIcon size={20} />,
-    text: "potsawat035@gmail.com",
+    text: "potsawat.kru@gmail.com",
   },
   {
     icon: <Calendar size={20} />,
@@ -47,8 +47,8 @@ const qualificationData = [
     data: [
       {
         university: "Sripatum University",
-        qualification: "Bachelor of Science",
-        years: "2021-Present",
+        qualification: "Bachelor of Science (Information Technology)",
+        years: "2021-2025",
       },
     ],
   },
@@ -202,7 +202,7 @@ const About = () => {
                                 </div>
                               </div>
                             );
-                          }
+                          },
                         )}
                       </div>
                     </div>
