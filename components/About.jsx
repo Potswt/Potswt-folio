@@ -47,7 +47,7 @@ const qualificationData = [
     data: [
       {
         university: "Sripatum University",
-        qualification: "Bachelor of Science (Information Technology)",
+        qualification: "Bachelor of Science",
         years: "2021-2025",
       },
     ],
